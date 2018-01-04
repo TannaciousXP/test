@@ -1,6 +1,6 @@
 import path from 'path';
 
-const SRC_DIR = path.join(__dirname, '/src/app');
+const SRC_DIR = path.join(__dirname, '/client/src/app');
 const DIST_DIR = path.join(__dirname, '/public/dist');
 
 const config = {
